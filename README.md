@@ -5,6 +5,7 @@
 
 ## Video Showcase
 - [https://youtu.be/E9cA6FUV4v0](https://youtu.be/d1QEwqNdvJ0)
+![image](https://github.com/viccdevz/vicc-announcement/assets/123509837/b5672c69-69c2-49ac-93f0-5dcda9518d85)
 ## Features
 - Script OldQB ve NewQB destekler. (The script supports OldQB and NewQB.)
 - Config'de belirttiğiniz süre içerisinde duyuru ekranda kalır (The announcement stays on the screen for the time you specify in the config.)
